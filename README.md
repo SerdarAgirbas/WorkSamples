@@ -1,5 +1,5 @@
 # WorkSamples
 The Work Samples of Real World Data Analysis Examples
 
-  In these guided projects by Alex Freberg, I try to find satisfactory results for real world data analysis problems. 
+  In these projects, I came up with satisfactory results for real world data analysis problems. 
   Any feedback is appreciated!
